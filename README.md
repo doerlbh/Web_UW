@@ -5,4 +5,4 @@ For the official homepage, please refer to the [http://doerlbh.github.io/](http:
 
 This website is only for experimental usage.
 
-Address: [http://doerlbh.github.io/blog](http://doerlbh.github.io/blog)
+Address: [http://students.washington.edu/sunnylin/](http://students.washington.edu/sunnylin/)
